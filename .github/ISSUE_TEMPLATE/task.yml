@@ -1,0 +1,30 @@
+name: Work task
+description: Plan a focused piece of work and define when it is done.
+title: "[Task] "
+body:
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Intended outcome
+      description: What should be different when this task is complete?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and boundaries
+      description: Name the project, affected platforms, and anything that must stay unchanged.
+    validations:
+      required: true
+  - type: textarea
+    id: done
+    attributes:
+      label: Completion checklist
+      placeholder: "- [ ] Change completed\n- [ ] Relevant checks passed\n- [ ] Result reviewed"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Dependencies and verification
+      description: Links, prerequisites, and the checks needed to confirm the result.
