@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NEXTSQUARESTUDIO/.github/main/profile/banner.svg" alt="Next Square Studio — Games. Imagination. New possibilities." width="100%" />
+  <img src="https://raw.githubusercontent.com/NEXTSQUARESTUDIO/.github/e5a76dd5a5208183b46b4a57bdad694ba54cf26f/profile/banner.svg" alt="Next Square Studio — Games. Imagination. New possibilities." width="100%" />
 </p>
 
 <p align="center">
