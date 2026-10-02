@@ -1,0 +1,29 @@
+name: Feature or improvement
+description: Suggest something that would make the product more useful.
+title: "[Idea] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Explain who needs this and when.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: What would a successful result look like?
+      description: List a few clear outcomes we can check.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives or examples
+      description: Optional screenshots, links, or other approaches.
